@@ -40,5 +40,5 @@ zucchine.forEach((zucchina) => {
   }
 });
 
-console.log(zucchineLunghe);
-console.log(zucchineCorte);
+// console.log(zucchineLunghe);
+// console.log(zucchineCorte);
